@@ -1,1 +1,1 @@
-web: npm run start:prodgit add .
+web: npm run start:prod
